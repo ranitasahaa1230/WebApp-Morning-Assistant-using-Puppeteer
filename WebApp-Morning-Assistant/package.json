@@ -1,0 +1,14 @@
+{
+  "name": "webapp-morning-assistant",
+  "description": "WhatsApp Morning Assistant",
+  "version": "1.0.0",
+  "main": "script.js",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
