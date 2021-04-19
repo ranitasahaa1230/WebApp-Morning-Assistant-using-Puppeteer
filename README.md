@@ -1,6 +1,7 @@
 # WebApp Morning Assistant
 
 In these tough times who doesn't want to keep themselves updated with the latest news headlines, weather forecast, and also knowing about our horoscope.
+
 So in this project-" WebApp Morning Assistant" brings all that in our WhatsApp chat. It can be simply used each morning to get all the basic information about the day and can help one to keep themselves refreshed.
 
 I have provided certain functionalities like:-
